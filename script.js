@@ -36,6 +36,8 @@ typewriter
   .typeString('<span style="color: #AFD3E8;">Im a Software Engineering Student at CSUSM!</span>')
   .pauseFor(2500)
   .deleteAll()
-  .typeString("Check Out My Page :)")
+  .typeString("I like KBBQ")
+  .pauseFor(2500)
+  .typeString('<span style="color: #AFD3E8;">Check Out My Page! :)</span>')
   .pauseFor(2500)
   .start();
