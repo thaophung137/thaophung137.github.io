@@ -113,7 +113,7 @@ body, html {
   /**
    * Dark Arrow Down
    */
-  background-image: url("assets/images/arrow-down-sign-to-navigate.png");
+  background-image: url("../images/arrow-down-sign-to-navigate.png");
   background-repeat: no-repeat;
   background-size: contain;
 }
@@ -156,7 +156,7 @@ body, html {
     height: 50vh;
     width: 50vh;
     background-color: #E6B1BC;
-    background-image: url("assets/images/me.jpg");
+    background-image: url("../images/me.jpg");
     background-size: 75%;
     background-repeat: no-repeat;
     background-position: center center;
@@ -183,7 +183,7 @@ body, html {
 
 #tax {
     background-color: #B1BCE6;
-    background-image: url("assets/images/taxes.png");
+    background-image: url("../images/taxes.png");
     background-size: 65%;
     background-repeat: no-repeat;
     background-position: center center;
@@ -191,7 +191,7 @@ body, html {
 
 #sorting {
     background-color: #B7E5DD;
-    background-image: url("assets/images/bar-chart.png");
+    background-image: url("../images/bar-chart.png");
     background-size: 65%;
     background-repeat: no-repeat;
     background-position: center center;
@@ -199,7 +199,7 @@ body, html {
 
 #networking {
     background-color: #E6B1BC;
-    background-image: url("assets/images/network.png");
+    background-image: url("../images/network.png");
     background-size: 65%;
     background-repeat: no-repeat;
     background-position: center center;
@@ -207,7 +207,7 @@ body, html {
 
 #pet {
     background-color: #F1F0C0;
-    background-image: url("assets/images/bone.png");
+    background-image: url("../images/bone.png");
     background-size: 65%;
     background-repeat: no-repeat;
     background-position: center center;
