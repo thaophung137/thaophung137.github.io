@@ -26,7 +26,7 @@ body, html {
     padding-top: 20px;
 }
 
-#aboutme, #main{
+#aboutme, #main, #education-section{
     min-height: 100vh;
     width: 100%;
 }
@@ -85,7 +85,7 @@ body, html {
 /* MAIN PAGE */
 #title {
     font-style: normal;
-    font-size: 600%;
+    font-size: 6rem;
     line-height: 135px;
     text-align: center;
     font-weight: 1000%;
@@ -93,7 +93,7 @@ body, html {
 
 #app {
     font-style: normal;
-    font-size: 22px;
+    font-size: 1.3rem;
     line-height: 36px;
     text-align: center;
     color: #E6B1BC;
@@ -162,6 +162,10 @@ body, html {
     background-position: center center;
 }
 
+#about-p{
+    font-size:1.2rem;
+}
+
 /* EDUCATION */
 #education{
     align-items: flex-start;
@@ -171,8 +175,8 @@ body, html {
 
 /*PROJECT*/
 .project {
-    height: 60vh;
-    width: 60vh;
+    height: 350px;
+	width: 350px;
     margin: 20px;
     position: relative;
     align-items: center;
@@ -258,10 +262,10 @@ body, html {
 }
 
 #footer-links a{
-    font-size: 16px;
+    font-size: 1rem;
     color: #575757;
 }
 #copyright{
-    font-size: 12px;
+    font-size: 0.8rem;
     color: #333;
 }

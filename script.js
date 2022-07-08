@@ -38,6 +38,7 @@ typewriter
   .deleteAll()
   .typeString("I like KBBQ")
   .pauseFor(2500)
+  .deleteAll()
   .typeString('<span style="color: #AFD3E8;">Check Out My Page! :)</span>')
   .pauseFor(2500)
   .start();
